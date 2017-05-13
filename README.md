@@ -92,7 +92,10 @@ console.log(toCSS(obj)) // .hello{color:red}.foo{background:pink}
 
 ## CLI
 
-WIP 🔨
+```sh
+$ obj-to-css foo.json
+# .hello{color:red}.foo{background:pink}
+```
 
 ## Contribute
 
