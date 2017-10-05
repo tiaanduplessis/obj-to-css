@@ -65,6 +65,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/obj-to-css.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install --save obj-to-css
 # OR
